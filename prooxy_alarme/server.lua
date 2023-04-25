@@ -36,3 +36,6 @@ function ProoxyGroup(user_id,group) --Função que retorna o group que foi envia
     return group
 end
 
+print('Mansoes com alarmes ligados - Qualquer duvida -> https://discord.gg/AETxBBNK6e')
+
+
